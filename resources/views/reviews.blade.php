@@ -71,7 +71,7 @@
                     <p class="card-text">Super worth it, di halatang ukay lang sya. Very approachable din ng seller. Thank you seller. Recommended</p>
                   </div>
                   <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ag</small>
+                    <small class="text-muted">Last updated 3 mins ago</small>
                   </div>
                 </div>
                 <div class="card">
