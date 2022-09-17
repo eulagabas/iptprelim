@@ -68,7 +68,7 @@
                     <h5 class="card-title">Reviews</h5>
                         <h6 class="card-subtitle mb-2 text-muted">@L**a 23</h6>
                         <hr>
-                    <p class="card-text">Super worth it, di halatang ukay lang sya. Very approachable din ng seller. Thank you seller. Recommended</p>
+                    <p class="card-text">Super worth it, di halatang ukay lang sya. Very approachable din ng seller. Thank you seller</p>
                   </div>
                   <div class="card-footer">
                     <small class="text-muted">Last updated 3 mins ago</small>
