@@ -79,7 +79,7 @@
                       <div class="card">
                         <img src="{{asset('assets/looth.png')}}" height=" 230px">
                         <div class="card-body">
-                          <h5 class="card-title">LooThrif Clothing Co</h5>
+                          <h5 class="card-title">LooThrif Clothing Co.</h5>
                           <p class="card-text">For more details please visit our Fb page facebook.com/LooThriftClothing</p>
                         </div>
                       </div>
