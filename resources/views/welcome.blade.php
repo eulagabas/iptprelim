@@ -36,13 +36,13 @@
             </div>
             <nav class="navbar" style="background-color:#86563C ">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="#">
+                    <a class="navbar-brand" href="{{url('/')}}">
                         <img src="{{asset('assets/logo.png')}}" alt="Logo" width="40" height="40" class="d-inline-block align-text-top">
                         LooThriftCo.
                     </a>
                     <ul class="nav justify-content-center">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="{{url('/welcome')}}">Home</a>
+                            <a class="nav-link active" aria-current="page" href="{{url('/')}}">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{url('/about')}}">About</a>
